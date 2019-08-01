@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 29: expected statement.
+    "You know you have to go to work and deal with some bullshit today. You'll " +
+                                                                                 ^
+
+File "game/script.rpy", line 30: expected statement.
+    "have to listen to people talk about their lives, shit that's going" +
+                                                                         ^
+
+File "game/script.rpy", line 31: expected statement.
+    "on with them that you don't give a fuck about. But you have to pretend you " +
+                                                                                  ^
+
+Ren'Py Version: Ren'Py 7.3.2.320
+Wed Jul 31 19:39:36 2019
